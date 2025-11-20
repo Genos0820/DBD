@@ -1,0 +1,6 @@
+https://www.bigocheatsheet.com/
+sliding window concept
+max profit stock vala
+reverse LL
+Tree traversal(preOrder,postOrder,inOrder)
+Tree delete a node

@@ -1,0 +1,14 @@
+Q:Find Minimum in Rotated Sorted Array(https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+L: mid element nikalna hai phir right most element se compare krna hai, 
+    ->agar right se bada hai right side jao(left=mid+1)
+    ->agar right se chota hai left side jao(right=mid-1)
+    ->return condition % n ke sath rahegi(mid-1+n)%n and (mid+1)%n
+
+
+Q:Best Time to Buy and Sell Stock(https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+L: ek minimum price vala variable leke loop me chlte jao
+    ->agar usse choti value mili toh turant swap krdo
+    ->aur max profit ke lie har value ke sath minus krke dekhe, aur store krlo campare krke
+    ->leetcode me discussion me ache se smjahaya hai
+
+Q:
